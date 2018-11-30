@@ -247,8 +247,7 @@ public class ArrayList<E> implements List<E> {
     System.out.println();
     System.out.println("ArrayList after removing first element:\n" + list.toString());
     list.remove(8);
-    System.out.println();
-    System.out.println("ArrayList after removing last element:\n" + list.toString());
+    // TODO: add the remaining output statements to produce the required output
   }
 
 }
